@@ -1,1 +1,8 @@
+Hello! My name is Aviral.
+
+I am from CSE(DS) branch and I am an aspiring software developer with a strong interest in web development,
+artificial intelligence and problem solving.
+
+I am focusing on strengthening my foundations in software development and DSA to work for building real-world applications.My goal is to become a well-rounded developer who can understand a problem, design an efficient solution, and build it into a reliable product.
+
 
