@@ -1,0 +1,10 @@
+Skills:
+1. HTML
+2. CSS
+3. JavaScript
+4. Git and GitHub
+
+Hobbies:
+1. Coding
+2. Gaming
+3. Exploring technology
